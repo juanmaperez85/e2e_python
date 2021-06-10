@@ -1,4 +1,4 @@
-Django==1.7.11
+Django==2.2.24
 behave==1.2.6
 pyvirtualdisplay==0.1.3
 django-behave==0.1.5
